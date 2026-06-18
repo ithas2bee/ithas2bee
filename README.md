@@ -1,10 +1,35 @@
-- 👋 Hi, I’m Byron Lencrerot III
-- 👀 I’m interested in high and low level languages. 
-- 🌱 I began learning code with Python, Java, C/C++, SQL, HTML, CSS, Javascript, and Swift. After expanding my skills, I began working as a .NET software Engineer for a large company. 
-- 💞️ I’m looking to collaborate on new projects that will improve my skills
-- 📫 How to reach me my linked in is my first and last name. I don't have any other social media. 
+# 👋 Hi, I'm Byron Lencrerot III
 
-<!---
-ithas2bee/ithas2bee is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+Software Engineer | Enterprise Application Development | .NET Developer
+
+I am a Software Engineer with over 11 years in technology, where I design, develop, and maintain enterprise applications. My experience includes C#, ASP.NET, SQL Server, Azure technologies, API development, and modern software architecture.
+
+I enjoy building practical software solutions, learning new technologies, and exploring ways to improve application design, automation, and development processes.
+
+## Technical Interests
+
+* C# and .NET
+* ASP.NET Core
+* SQL Server
+* API Development
+* Azure
+* Application Architecture
+* Mobile Development
+* Data Analytics
+* Software Design Patterns
+
+## Education
+
+* Bachelor of Science in Information Technology
+* Master of Information Systems Management (Organizational Leadership)
+
+## Professional Goals
+
+* Continue growing as a software engineer and technical leader
+* Build meaningful software products that solve real-world problems
+* Expand expertise in application architecture and system design
+* Share knowledge through mentoring and teaching
+
+## Connect With Me
+
+LinkedIn: [www.linkedin.com/in/byron-lencrerot-340437147/](http://www.linkedin.com/in/byron-lencrerot-340437147/)
